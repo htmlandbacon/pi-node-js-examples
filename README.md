@@ -6,6 +6,8 @@ These examples are based around [Adeept - RFID learnign kit](https://github.com/
 
 [05 - LED Example with button](05_led_button_example/README.md)
 
+[07 - LED Flowing lights](07_led_flowing_lights/README.md)
+
 [09 - RBG LED Example](09_rbg_led_example/README.md)
 
 [10 - 7 Segment Display](10_7_segment_display/README.md)
