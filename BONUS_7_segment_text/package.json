@@ -1,0 +1,9 @@
+{
+  "name": "bonus_7_segment_text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "rpio": "^0.9.14"
+  }
+}
